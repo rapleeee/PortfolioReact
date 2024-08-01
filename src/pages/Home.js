@@ -5,6 +5,7 @@ import Portfolio from "../components/Portfolio";
 import Contact from "../components/Contact";
 import profilePic from "../assets/profilePic.jpg";
 
+
 const Home = () => {
   return (
     <div className="min-h-screen bg-white dark:bg-gray-900 text-gray-900 dark:text-white">
@@ -35,7 +36,8 @@ const Home = () => {
           </p>
           <div className="mt-4 flex space-x-4">
             <a
-              href="#contact"
+              href="/assets/RafliMaulana-resume.pdf"
+              download="RafliMaulana-resume.pdf"
               className=" inline-block border border-slate-300 hover:border-slate-400 bg-lime-500 text-slate-100 rounded-lg text-base p-2"
             >
               Download CV
