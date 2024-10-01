@@ -3,12 +3,15 @@ import bridgecourse from "../assets/bridgecourse.png";
 import sremporium from "../assets/sremporium.png";
 import saraya from "../assets/saraya.png";
 import vhaniture from "../assets/vhaniture.png";
+import GetStarted from "../assets/GetStarted.png";
 
 const projects = [
   { id: 1, image: bridgecourse, link: 'https://bridgecourse.vercel.app/', title: 'Bridge Course', description: 'A landing page online course.' },
   { id: 2, image: sremporium, link: 'https://sremporium.vercel.app/', title: 'SR Emporium', description: 'An online store for various products.' },
-  { id: 3, image: saraya, link: 'https://www.figma.com/proto/h34598tDTbW9dOtcDp8lBm/Saraya?type=design&node-id=42-382&t=sO2J1RaOcTStAIVZ-1&scaling=scale-down&page-id=20%3A3&starting-point-node-id=42%3A382', title: 'Saraya Nusantara', description: ' Design apps education digital financial ' },
+  { id: 3, image: saraya, link: 'https://www.figma.com/proto/h34598tDTbW9dOtcDp8lBm/Saraya?type=design&node-id=42-382&t=sO2J1RaOcTStAIVZ-1&scaling=scale-down&page-id=20%3A3&starting-point-node-id=42%3A382', title: 'UI/UX App Saraya', description: ' Design apps education digital financial ' },
   { id: 4, image: vhaniture, link: 'https://github.com/rapleeee', title: 'Vhaniture Id', description: 'Website monitoring activites project in the Vhaniture Id' },
+  { id: 5, image: vhaniture, link: 'https://github.com/rapleeeehttps://github.com/rapleeee/disiju-webs', title: 'PT Disiju Saitama Perkasa', description: 'Website booking for event at PT Disiju Saitama Perkasa' },
+  { id: 6, image: GetStarted, link: 'https://drive.google.com/file/d/1etbxzlXHpKMJ7gLX2wuRfctaIssMebW5/view?usp=sharing', title: 'Apps Saraya', description: 'App education technology for UMKM' },
   
 ];
 
